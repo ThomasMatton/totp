@@ -11,6 +11,8 @@ Het is ontwikkeld om snel TOTP-codes te verkrijgen voor een **Authelia** omgevin
 *   **Foutafhandeling:** Geeft een melding indien de `.env` file of de geheime sleutel ontbreekt of onjuist is.
 
 ## Installatie
+Dit script maakt gebruik van Tkinter voor het genereren van de grafische gebruikersinterface (GUI). 
+Tkinter is een standaardbibliotheek die standaard wordt meegeleverd met de Python-installatie en vereist geen aparte installatie via pip.
 
 Om dit script lokaal te draaien, moeten de volgende Python-libraries geïnstalleerd zijn:
 
